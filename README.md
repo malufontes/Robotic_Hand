@@ -5,9 +5,7 @@ Maria Luiza Fontes Dantas
 Este repositório apresenta o desenvolvimento de uma **mão robótica acionada por sensores de flexão instalados em uma luva**, permitindo que os movimentos dos dedos humanos sejam reproduzidos por uma estrutura mecânica impressa em 3D.  
 O foco é utilizar **tecnologia acessível** para criar uma solução funcional de baixo custo, unindo eletrônica, computação e mecânica.
 
-<img src="imgs\mao_paz.jpg" width="300">
-
-![Logo do Google](imgs\mao_paz.jpg)
+<img src="imgs\mao_paz.jpg" width="300" alt="Imagem mão robotica">
 
 ---
 
@@ -21,7 +19,7 @@ O sistema é dividido em duas partes principais:
 - Os sinais são lidos por meio de divisores de tensão no Arduino.
 - O software realiza tratamentos simples para compensar ruídos e instabilidades dos sensores caseiros.
 
-<img src="imgs\mao1 (1).jpg" width="300">
+<img src="imgs\mao1 (1).jpg" width="300" alt="Imagem flex sensors">
 
 ### **2. Mão robótica**
 - Estrutura impressa em 3D com articulações que imitam os dedos humanos.
@@ -29,7 +27,7 @@ O sistema é dividido em duas partes principais:
 - Elásticos na parte posterior dos dedos realizam o movimento de abertura.
 - Os motores recebem comandos com base nos dados dos sensores da luva em tempo real.
 
-<img src="imgs\imp3d_2.png" width="300">
+<img src="imgs\imp3d_2.png" width="300" alt="Imagem impressao 3D">
 
 ---
 
