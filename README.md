@@ -2,6 +2,8 @@
 **Projeto Integrador I – UFSC**  
 Maria Luiza Fontes Dantas
 
+sdfasdas
+
 Este repositório apresenta o desenvolvimento de uma **mão robótica acionada por sensores de flexão instalados em uma luva**, permitindo que os movimentos dos dedos humanos sejam reproduzidos por uma estrutura mecânica impressa em 3D.  
 O foco é utilizar **tecnologia acessível** para criar uma solução funcional de baixo custo, unindo eletrônica, computação e mecânica.
 
