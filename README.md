@@ -7,6 +7,8 @@ O foco é utilizar **tecnologia acessível** para criar uma solução funcional 
 
 <img src="imgs\mao_paz.jpg" width="300" alt="Imagem mão robotica">
 
+gfergre
+
 ---
 
 ## ✨ Visão Geral do Projeto
